@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  text-align: right;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+button {
+  background-color: #0070f3;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
